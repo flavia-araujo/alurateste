@@ -52,19 +52,13 @@ body {
 }
 
 .container__botao:hover{
-    background-color: transparent;
-    border: 3px solid var(--botao-principal);
+    background-color: var(--cor-botao-hover)
 }
 
 
 .botao__secundario {
     background-color: transparent;
     border: 3px solid var(--botao-principal);
-}
-
-.botao__secundario:hover {
-    background-color: var(--botao-principal);
-
 }
 
 
